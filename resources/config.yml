@@ -1,0 +1,13 @@
+# OneInMore by MerLant
+
+# How many times will it be updated online.
+
+timeout: 3
+
+# A list of servers that will be added online.
+
+#servers:
+#    - localhost:19133
+#    - localhost:19134
+
+servers: []

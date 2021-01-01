@@ -1,0 +1,6 @@
+name: OneInMore
+main: MerLant\OneInMore
+version: 1.0.0
+api: 3.0.0
+author: MerLant
+description: This plugin combines online from multiple servers, all settings in "config.yml".
