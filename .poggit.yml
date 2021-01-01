@@ -4,5 +4,5 @@ branches:
 - OneInMore
 projects:
   OneInMore:
-    path: ""
+    path: "MerLant/OneInMore"
 ...
